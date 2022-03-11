@@ -25,3 +25,7 @@ for i in range(len(a_list)):
 x = ["W","A","C","H","O"]
 e = enumerate(x)
 print(list(e))
+
+#Imprimir en la misma linea
+print("Viva er", end=" ")
+print("Betih")

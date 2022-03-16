@@ -1,7 +1,10 @@
-import os.path
+import imp
+import sys
 from os import path
-#pathlib para versiones de la 3.4 para arriba ver si un file o directorio existe.
+from Basics import impresiones
 
+#pathlib para versiones de la 3.4 para arriba ver si un file o directorio existe.
+impresiones()
 #Ver existencia del archivo
 t = path.exists("example.txt")
 print(t)

@@ -1,14 +1,16 @@
-#El hola mundo mamahuevazo
-print("Mamahuevoooooo!!!")
 
-#Print("Algo")
-print("Twitch place")
+def impresiones():
+        #El hola mundo mamahuevazo
+        print("Mamahuevoooooo!!!")
 
-#Salto de linea \n
-print("-Weon qliao \n-Wea fome")
+        #Print("Algo")
+        print("Twitch place")
 
-#Funcion end
-print("Saludos", end =' ')
-print("Wacho", end='!')
-print("\n")
-print("Python",end='@')
+        #Salto de linea \n
+        print("-Weon qliao \n-Wea fome")
+
+        #Funcion end
+        print("Saludos", end =' ')
+        print("Wacho", end='!')
+        print("\n")
+        print("Python",end='@')

@@ -1,5 +1,6 @@
 import websocket
 from websocket import create_connection
+url2 = "wss://push1-v2.kucoin.com"
 url = "wss://api.gemini.com/v2/marketdata"
 
 websocket.enableTrace(True)
